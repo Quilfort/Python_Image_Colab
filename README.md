@@ -44,3 +44,13 @@ For simplicity, follow these steps:
 Before proceeding, download the [DreamShapers](https://civitai.com/models/4384/dreamshaper) model. In the future, efforts will be made to simplify the model download process.
 
 ---
+
+# Personal Note
+
+I built this project for my buddy Peter because he loves messing around with AI images but isn't too tech-savvy. The Auto1111 SDK Python library makes things a lot easier for him.
+
+This project is also my first shot at connecting Google Colab with GitHub. It's been a learning curve, but it's cool to see how they can team up for some creative projects.
+
+Feel free to give it a go, add your touch, and have fun exploring the AI image-making scene!
+
+---
