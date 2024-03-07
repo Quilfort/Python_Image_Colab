@@ -6,7 +6,19 @@ This project leverages the [Auto1111 SDK Python library](https://github.com/Auto
 
 ---
 
-**Important**
+# Repository Contents
+
+In this repository, you'll find two key files:
+
+1. **Form**: I'm currently working on this file, refining its features and functionalities.
+
+2. **Bot**: The bot is a major work in progress. I'm actively developing and tweaking it to make it even better.
+
+Feel free to dive in, contribute, or keep an eye out for updates as I continue to enhance and expand the capabilities.
+
+---
+
+### Important
 
 If this is your initial encounter with this Colab environment and models on your drive, kindly adhere to the instructions under the 'Models' section.
 
